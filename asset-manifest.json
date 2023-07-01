@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rajapp/static/css/main.abd64e84.css",
-    "main.js": "/rajapp/static/js/main.be7fd738.js",
+    "main.js": "/rajapp/static/js/main.29d71beb.js",
     "static/js/787.11a4feb7.chunk.js": "/rajapp/static/js/787.11a4feb7.chunk.js",
     "index.html": "/rajapp/index.html",
     "main.abd64e84.css.map": "/rajapp/static/css/main.abd64e84.css.map",
-    "main.be7fd738.js.map": "/rajapp/static/js/main.be7fd738.js.map",
+    "main.29d71beb.js.map": "/rajapp/static/js/main.29d71beb.js.map",
     "787.11a4feb7.chunk.js.map": "/rajapp/static/js/787.11a4feb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.be7fd738.js"
+    "static/js/main.29d71beb.js"
   ]
 }
