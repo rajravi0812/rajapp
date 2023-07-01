@@ -102,7 +102,7 @@ function App() {
       
      <div className='container  my-5'>
    <Routes>
-      <Route exact path="/" element={<Textform  showAlert={showAlert} 
+      <Route path='/rajapp' exact element={<Textform  showAlert={showAlert} 
       headings="Enter the Text For Analysis" mode={mode}/>}>
         
        </Route>
